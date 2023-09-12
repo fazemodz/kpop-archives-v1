@@ -1,0 +1,28 @@
+.hideme
+{
+    opacity:0;
+}
+div.hidden
+{
+   display: none;
+}
+div.hidden2
+{
+   display: none;
+}
+#container
+{
+    height:2000px;    
+}
+
+#container DIV
+{ 
+    margin:50px; 
+    padding:50px; 
+    background-color:lightgreen; 
+}
+
+.hideme3
+{
+    opacity:0;
+}

@@ -1,0 +1,230 @@
+.egg-article-body .h1,.egg-article-body .h2,.egg-article-body .h3,.egg-article-body .h4,.egg-article-body .h5,.egg-article-body .h6,.egg-article-body h1,.egg-article-body h2,.egg-article-body h3,.egg-article-body h4,.egg-article-body h5,.egg-article-body h6 {
+    font-weight: 500;
+    line-height: 1.1;
+    color: #111111
+}
+
+.egg-article-body .h1 .small,.egg-article-body .h1 small,.egg-article-body .h2 .small,.egg-article-body .h2 small,.egg-article-body .h3 .small,.egg-article-body .h3 small,.egg-article-body .h4 .small,.egg-article-body .h4 small,.egg-article-body .h5 .small,.egg-article-body .h5 small,.egg-article-body .h6 .small,.egg-article-body .h6 small,.egg-article-body h1 .small,.egg-article-body h1 small,.egg-article-body h2 .small,.egg-article-body h2 small,.egg-article-body h3 .small,.egg-article-body h3 small,.egg-article-body h4 .small,.egg-article-body h4 small,.egg-article-body h5 .small,.egg-article-body h5 small,.egg-article-body h6 .small,.egg-article-body h6 small {
+    font-weight: 400;
+    line-height: 1;
+    color: #999999
+}
+
+.egg-article-body .h1,.egg-article-body .h2,.egg-article-body .h3,.egg-article-body h1,.egg-article-body h2,.egg-article-body h3 {
+    margin-top: 25px;
+    margin-bottom: 12.5px
+}
+
+.egg-article-body .h1 .small,.egg-article-body .h1 small,.egg-article-body .h2 .small,.egg-article-body .h2 small,.egg-article-body .h3 .small,.egg-article-body .h3 small,.egg-article-body h1 .small,.egg-article-body h1 small,.egg-article-body h2 .small,.egg-article-body h2 small,.egg-article-body h3 .small,.egg-article-body h3 small {
+    font-size: 65%
+}
+
+.egg-article-body .h4,.egg-article-body .h5,.egg-article-body .h6,.egg-article-body h4,.egg-article-body h5,.egg-article-body h6 {
+    margin-top: 12.5px;
+    margin-bottom: 12.5px
+}
+
+.egg-article-body .h4 .small,.egg-article-body .h4 small,.egg-article-body .h5 .small,.egg-article-body .h5 small,.egg-article-body .h6 .small,.egg-article-body .h6 small,.egg-article-body h4 .small,.egg-article-body h4 small,.egg-article-body h5 .small,.egg-article-body h5 small,.egg-article-body h6 .small,.egg-article-body h6 small {
+    font-size: 75%
+}
+
+.egg-article-body .h1,.egg-article-body h1 {
+    font-size: 28px
+}
+
+.egg-article-body .h2,.egg-article-body h2 {
+    font-size: 24px
+}
+
+.egg-article-body .h3,.egg-article-body h3 {
+    font-size: 21px
+}
+
+.egg-article-body .h4,.egg-article-body h4 {
+    font-size: 18px
+}
+
+.egg-article-body .h5,.egg-article-body h5 {
+    font-size: 14px
+}
+
+.egg-article-body .h6,.egg-article-body h6 {
+    font-size: 12px
+}
+
+.egg-article-body p {
+    margin: 0 0 12.5px
+}
+
+.egg-article-body .small,.egg-article-body small {
+    font-size: 85%
+}
+
+.egg-article-body ol,.egg-article-body ul {
+    margin-top: 0;
+    margin-bottom: 12.5px
+}
+
+.egg-article-body ol ol,.egg-article-body ol ul,.egg-article-body ul ol,.egg-article-body ul ul {
+    margin-bottom: 0
+}
+
+.egg-article-body blockquote {
+    padding: 12.5px 25px;
+    margin: 0 0 25px;
+    font-size: 17.5px;
+    border-left: 5px solid #cccccc
+}
+
+.egg-article-body blockquote ol:last-child,.egg-article-body blockquote p:last-child,.egg-article-body blockquote ul:last-child {
+    margin-bottom: 0
+}
+
+.egg-article-body blockquote .small,.egg-article-body blockquote footer,.egg-article-body blockquote small {
+    display: block;
+    font-size: 80%;
+    line-height: 1.81818182;
+    color: #999999
+}
+
+.egg-article-body blockquote .small:before,.egg-article-body blockquote footer:before,.egg-article-body blockquote small:before {
+    content: '\2014 \00A0'
+}
+
+.egg-article-body img {
+    margin: 0 0 12.5px;
+    padding: 15px
+}
+
+.egg-article-body img+p,.egg-article-body p img+img {
+    margin: 12.5px 0 0
+}
+
+.egg-article-body table {
+    background-color: transparent;
+    margin: 0 0 12.5px
+}
+
+.egg-article-body caption {
+    padding-top: 8px;
+    padding-bottom: 5px;
+    color: #999999;
+    text-align: left
+}
+
+.egg-article-body th {
+    text-align: left
+}
+
+.egg-article-body .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 25px
+}
+
+.egg-article-body .table>tbody>tr>td,.egg-article-body .table>tbody>tr>th,.egg-article-body .table>tfoot>tr>td,.egg-article-body .table>tfoot>tr>th,.egg-article-body .table>thead>tr>td,.egg-article-body .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.81818182;
+    vertical-align: top;
+    border-top: 1px solid #e4e4e4
+}
+
+.egg-article-body .table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #e4e4e4
+}
+
+.egg-article-body .table>caption+thead>tr:first-child>td,.egg-article-body .table>caption+thead>tr:first-child>th,.egg-article-body .table>colgroup+thead>tr:first-child>td,.egg-article-body .table>colgroup+thead>tr:first-child>th,.egg-article-body .table>thead:first-child>tr:first-child>td,.egg-article-body .table>thead:first-child>tr:first-child>th {
+    border-top: 0
+}
+
+.egg-article-body .table>tbody+tbody {
+    border-top: 2px solid #e4e4e4
+}
+
+.egg-article-body .table .table {
+    background-color: white
+}
+
+.egg-article-body .table-condensed>tbody>tr>td,.egg-article-body .table-condensed>tbody>tr>th,.egg-article-body .table-condensed>tfoot>tr>td,.egg-article-body .table-condensed>tfoot>tr>th,.egg-article-body .table-condensed>thead>tr>td,.egg-article-body .table-condensed>thead>tr>th {
+    padding: 5px
+}
+
+.egg-article-body .table-bordered,.egg-article-body .table-bordered>tbody>tr>td,.egg-article-body .table-bordered>tbody>tr>th,.egg-article-body .table-bordered>tfoot>tr>td,.egg-article-body .table-bordered>tfoot>tr>th,.egg-article-body .table-bordered>thead>tr>td,.egg-article-body .table-bordered>thead>tr>th {
+    border: 1px solid #e4e4e4
+}
+
+.egg-article-body .table-bordered>thead>tr>td,.egg-article-body .table-bordered>thead>tr>th {
+    border-bottom-width: 2px
+}
+
+.egg-article-body .table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f9f9f9
+}
+
+.egg-article-body .table-hover>tbody>tr:hover,.egg-article-body .table>tbody>tr.active>td,.egg-article-body .table>tbody>tr.active>th,.egg-article-body .table>tbody>tr>td.active,.egg-article-body .table>tbody>tr>th.active,.egg-article-body .table>tfoot>tr.active>td,.egg-article-body .table>tfoot>tr.active>th,.egg-article-body .table>tfoot>tr>td.active,.egg-article-body .table>tfoot>tr>th.active,.egg-article-body .table>thead>tr.active>td,.egg-article-body .table>thead>tr.active>th,.egg-article-body .table>thead>tr>td.active,.egg-article-body .table>thead>tr>th.active {
+    background-color: #f5f5f5
+}
+
+.egg-article-body table col[class*=col-] {
+    position: static;
+    float: none;
+    display: table-column
+}
+
+.egg-article-body table td[class*=col-],.egg-article-body table th[class*=col-] {
+    position: static;
+    float: none;
+    display: table-cell
+}
+
+.egg-article-body .table-hover>tbody>tr.active:hover>td,.egg-article-body .table-hover>tbody>tr.active:hover>th,.egg-article-body .table-hover>tbody>tr:hover>.active,.egg-article-body .table-hover>tbody>tr>td.active:hover,.egg-article-body .table-hover>tbody>tr>th.active:hover {
+    background-color: #e8e8e8
+}
+
+.egg-article-body .table-responsive {
+    overflow-x: auto;
+    min-height: .01%
+}
+
+@media screen and (max-width: 767px) {
+    .egg-article-body .table-responsive {
+        width:100%;
+        margin-bottom: 18.75px;
+        overflow-y: hidden;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #e4e4e4
+    }
+
+    .egg-article-body .table-responsive>.table {
+        margin-bottom: 0
+    }
+
+    .egg-article-body .table-responsive>.table>tbody>tr>td,.egg-article-body .table-responsive>.table>tbody>tr>th,.egg-article-body .table-responsive>.table>tfoot>tr>td,.egg-article-body .table-responsive>.table>tfoot>tr>th,.egg-article-body .table-responsive>.table>thead>tr>td,.egg-article-body .table-responsive>.table>thead>tr>th {
+        white-space: nowrap
+    }
+
+    .egg-article-body .table-responsive>.table-bordered {
+        border: 0
+    }
+
+    .egg-article-body .table-responsive>.table-bordered>tbody>tr>td:first-child,.egg-article-body .table-responsive>.table-bordered>tbody>tr>th:first-child,.egg-article-body .table-responsive>.table-bordered>tfoot>tr>td:first-child,.egg-article-body .table-responsive>.table-bordered>tfoot>tr>th:first-child,.egg-article-body .table-responsive>.table-bordered>thead>tr>td:first-child,.egg-article-body .table-responsive>.table-bordered>thead>tr>th:first-child {
+        border-left: 0
+    }
+
+    .egg-article-body .table-responsive>.table-bordered>tbody>tr>td:last-child,.egg-article-body .table-responsive>.table-bordered>tbody>tr>th:last-child,.egg-article-body .table-responsive>.table-bordered>tfoot>tr>td:last-child,.egg-article-body .table-responsive>.table-bordered>tfoot>tr>th:last-child,.egg-article-body .table-responsive>.table-bordered>thead>tr>td:last-child,.egg-article-body .table-responsive>.table-bordered>thead>tr>th:last-child {
+        border-right: 0
+    }
+
+    .egg-article-body .table-responsive>.table-bordered>tbody>tr:last-child>td,.egg-article-body .table-responsive>.table-bordered>tbody>tr:last-child>th,.egg-article-body .table-responsive>.table-bordered>tfoot>tr:last-child>td,.egg-article-body .table-responsive>.table-bordered>tfoot>tr:last-child>th {
+        border-bottom: 0
+    }
+}
+
+.egg-share-url {
+    opacity: 0;
+    filter: alpha(opacity=0);
+    position: fixed;
+    left: 0;
+    width: 10px
+}

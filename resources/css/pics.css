@@ -1,0 +1,114 @@
+#card1{
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/699ff3689c254f09a6a4554d017549fa.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+
+#card2{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/54389d0b323d4007b115857e3a2951e2.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card3{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/f97651df70014bd19b458c042379110b.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card4{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/d33fbda8b0ab4e23b0e9a14f1d0045de.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card5{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/ee414dd8b6624531b4833ea85022780f.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card6{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/e2a91cef412c4e2892c86c92ab4e2648.jpg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card7{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/19f6bee8256f4d72b1f0afd2cad797cb.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card8{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/4ab93a4e811b43a8b232284090bc9e81.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card9{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/93257cad44ec4d82802ac4e06cdcea1c.jpg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card10{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/adc5eeb492a247a585b0d29e891835b6.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card11{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/6cce4a9670cd43d995bc83e97c2f3eb7.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#card12{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url("https://6.viki.io/image/8fec5475df4e498581138ed9fd59bbae.jpeg?x=b&a=0x0&s=780x436&q=h&e=t&f=t&cb=1") center;
+     
+     background-size: cover !important;
+}
+#idkanymore{
+    padding-top: 500px;
+    
+}
+#cardtext{
+    text-align: center;
+    color:White;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 2.5rem;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-left: 550px;
+    padding-right: 550px;
+  
+  
+}
+.owo a{
+    color: white;
+    text-decoration: none;
+}
+.owo a:hover{
+    color: black;
+    text-decoration: none;
+}
+.owo{
+    width: 100%;
+    height:100%;   
+}
+
+
+body{
+  margin: 0px;
+}
+.section {
+  min-height: 650px;
+ padding: 0px;
+  background-color: #fff;
+ 
+}
+.row {
+  display: flex;
+  flex-direction: row;
+ 
+}
+.column {
+  width: 50%;
+  padding: 0px;
+  min-height: 650px;
+  flex-direction: column;
+  font-family: 'Noto Serif JP', serif;
+}

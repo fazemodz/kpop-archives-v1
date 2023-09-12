@@ -1,0 +1,70 @@
+/*©2019 Kpoparchives all rights reserved*/
+/*Specially styles sections*/
+.section {
+    min-height: 400px;
+    padding: 40px;
+    background-color: #fff;
+   
+}
+/*Sets up the columns*/
+
+/*Adds a row*/
+.row {
+    display: flex;
+    flex-direction: row;
+   
+}
+.section:nth-child(odd) {
+    background-color: white;
+}
+.column {
+    width: 50%;
+    padding: 0px;
+    min-height: 400px;
+    flex-direction: column;
+    font-family: 'Noto Serif JP', serif;
+   
+    /*background-image: url("https:kpoparchives.com/pics/blackpink.jpeg");
+    filter: blur(1px);
+    -webkit-filter: blur(1px); /* Safari 6.0 - 9.0 
+  text-align: center*/
+  
+  
+}
+p{
+ 
+    font-family: 'Noto Serif JP', serif;
+    font-size: 25px;
+}
+/* just for Tomdotbat */
+body {
+    margin: 0;
+}
+p2{
+    font-size: 25px;
+    font-family: 'Noto Serif JP', serif;
+}
+
+
+.footer{
+    
+     width:100%;
+     height:62px;
+     color: black; 
+    position:bottom;
+    bottom:0;
+    left:0;
+    text-align: right;
+    
+}
+.socialmedia{
+    height:100%;
+    width:12%;
+    text-align: left;
+   
+}
+
+.footertitle{
+    
+    text-align: right;  
+}

@@ -1,0 +1,129 @@
+
+.meta-primary {
+  color: #222;
+  background-color: #ffc429;
+}
+.meta-primary:hover {
+  color: #222;
+}
+.meta-primary:active {
+  color: #222;
+}
+.meta-secondary {
+  color: #ffc429;
+  background-color: #111;
+}
+.meta-secondary:hover {
+  color: #fff;
+}
+.meta-secondary:active {
+  color: #fff;
+}
+.meta-navbar-default {
+  color: #777;
+  background-color: #fff;
+  border-color: transparent;
+}
+.meta-navbar-default:hover {
+  color: #333333;
+}
+.meta-navbar-default:active {
+  color: #333333;
+}
+.meta-navbar-inverse {
+  color: #999999;
+  background-color: #000;
+  border-color: transparent;
+}
+.meta-navbar-inverse:hover {
+  color: #ffc429;
+}
+.meta-navbar-inverse:active {
+  color: #ffc429;
+}
+.meta-navbar-primary {
+  color: #a97a00;
+  background-color: #ffc429;
+  border-color: transparent;
+}
+.meta-navbar-primary:hover {
+  color: #222;
+}
+.meta-navbar-primary:active {
+  color: #222;
+}
+.meta-navbar-secondary {
+  color: #848484;
+  background-color: #111;
+  border-color: transparent;
+}
+.meta-navbar-secondary:hover {
+  color: #ffc429;
+}
+.meta-navbar-secondary:active {
+  color: #ffc429;
+}
+.meta-footer-default {
+  color: #999999;
+  background-color: #f9f9f9;
+  border-color: #e4e4e4;
+}
+.meta-footer-default:hover {
+  color: #111;
+}
+.meta-footer-default:active {
+  color: #111;
+}
+.meta-footer-inverse {
+  color: #777777;
+  background-color: #222;
+  border-color: #000000;
+}
+.meta-footer-inverse:hover {
+  color: #ffc429;
+}
+.meta-footer-inverse:active {
+  color: #ffc429;
+}
+.meta-footer-primary {
+  color: #8f6800;
+  background-color: #ffc429;
+  border-color: #ffc429;
+}
+.meta-footer-primary:hover {
+  color: #111;
+}
+.meta-footer-primary:active {
+  color: #111;
+}
+.meta-footer-secondary {
+  color: #6a6a6a;
+  background-color: #000000;
+  border-color: #000000;
+}
+.meta-footer-secondary:hover {
+  color: #ffc429;
+}
+.meta-footer-secondary:active {
+  color: #ffc429;
+}
+.meta-grid-item-default {
+  background-color: #f2f2f2;
+  color: #333333;
+  border-color: #e4e4e4;
+}
+.meta-grid-item-inverse {
+  background-color: #000000;
+  color: #ffc429;
+  border-color: #e4e4e4;
+}
+.meta-grid-item-primary {
+  background-color: #ffc429;
+  color: #000;
+  border-color: #e4e4e4;
+}
+.meta-grid-item-secondary {
+  background-color: #111;
+  color: #ffc429;
+  border-color: #e4e4e4;
+}

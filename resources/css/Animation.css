@@ -1,0 +1,28 @@
+div.hidden {
+    display: none
+}
+div.hidden2 {
+    display: none
+}
+.fadeleft
+    {
+        opacity: 0;
+        overflow: hidden;
+        width: 0%;
+        height:fit-content;
+        margin: fit-content;
+     
+        -webkit-transition: width 116000ms ease-in, opacity 1s ease-out;
+        -moz-transition: width 116000ms ease-in, opacity 1s ease-out;
+        -o-transition: width 116000ms ease-in, opacity 1s ease-out;
+        transition: width 116000ms ease-in, opacity 1s ease-out;
+    }
+    .active {
+        opacity: 1;
+        width: fit-content;
+    }
+    #container
+{
+    width:fit-content;
+    height:fit-content;  
+}

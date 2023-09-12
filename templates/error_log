@@ -1,0 +1,73 @@
+[09-Jan-2020 09:52:26 UTC] PHP Warning:  Unterminated comment starting line 3 in /home/kpoparch/public_html/en/templates/pagecontentarray.php on line 3
+[09-Jan-2020 09:52:42 UTC] PHP Notice:  Undefined variable: imgcount in /home/kpoparch/public_html/en/templates/headerstyletemplate.php on line 8
+[09-Jan-2020 09:52:42 UTC] PHP Warning:  mt_rand(): max(0) is smaller than min(1) in /home/kpoparch/public_html/en/templates/headerstyletemplate.php on line 8
+[09-Jan-2020 09:52:44 UTC] PHP Notice:  Undefined variable: title in /home/kpoparch/public_html/en/templates/headertemplate.php on line 4
+[21-Jan-2020 14:23:40 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:23:40 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:23:40 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:47 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:47 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:47 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:48 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:48 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:48 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:48 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:48 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:48 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:49 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:49 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:49 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:50 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:50 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:50 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:51 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:51 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:51 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:52 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:52 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:52 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:52 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:52 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:52 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:53 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:53 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:53 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:53 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:53 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:53 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:55 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:55 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:55 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:59 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 5
+[21-Jan-2020 14:25:59 UTC] PHP Notice:  Undefined variable: file_extention in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:25:59 UTC] PHP Notice:  Undefined index:  in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 7
+[21-Jan-2020 14:28:07 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:28:07 UTC] PHP Notice:  Undefined offset: 1 in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:28:07 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:28:07 UTC] PHP Notice:  Undefined offset: 1 in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:28:08 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:28:08 UTC] PHP Notice:  Undefined offset: 1 in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:28:08 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:28:08 UTC] PHP Notice:  Undefined offset: 1 in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:28:09 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:28:09 UTC] PHP Notice:  Undefined offset: 1 in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:29:15 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:29:15 UTC] PHP Notice:  Undefined index: Metatagsarray in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 6
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant index - assumed 'index' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 5
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Blackpink - assumed 'Blackpink' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 6
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant RedVelvet - assumed 'RedVelvet' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 7
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Loona - assumed 'Loona' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 8
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Twice - assumed 'Twice' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 9
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Ateez - assumed 'Ateez' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 10
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Everglow - assumed 'Everglow' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 11
+[21-Jan-2020 14:29:23 UTC] PHP Warning:  Use of undefined constant Acknowledgements - assumed 'Acknowledgements' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/array.php on line 12
+[21-Jan-2020 14:29:23 UTC] PHP Notice:  Undefined index: array in /home/kpoparch/public_html/en/templates/array.php on line 14
+[21-Jan-2020 14:29:31 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:29 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:31 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:33 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:33 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:33 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:30:34 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:31:48 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4
+[21-Jan-2020 14:32:28 UTC] PHP Warning:  Use of undefined constant Metatags - assumed 'Metatags' (this will throw an Error in a future version of PHP) in /home/kpoparch/public_html/en/templates/Metatagsarray.php on line 4

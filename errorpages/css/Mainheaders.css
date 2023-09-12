@@ -1,0 +1,19 @@
+/*Info on bands headers */
+.header.Blackpink {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/46607-image_5a1059f2be5c5.jpg);
+}
+.header.home {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/everglow.png);
+}
+.header.gidle{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/GI-DLE.png);
+}
+.header.Soyeon{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/jeonsoyeon.jpg);
+}
+.header.redvelvet{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/red-velvet.jpg);
+}
+.header.Loona{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../pics/first_LOONAGroup1300x650.png);
+}
